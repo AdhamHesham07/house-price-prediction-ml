@@ -29,6 +29,5 @@ The goal is to improve model accuracy by applying best practices in data cleanin
 ### Prerequisites
 - Python 3.8+
 - Jupyter Notebook
-- Install dependencies:
-```bash
-pip install -r requirements.txt
+
+
